@@ -5,6 +5,5 @@
 - 💬 Ask me about nothing.
 - 📫 How to reach me: you can't.
 - 😄 Pronouns: lol.
-- ⚡ Fun fact: ...
 
 <!-- **MalcolmDahling/MalcolmDahling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
