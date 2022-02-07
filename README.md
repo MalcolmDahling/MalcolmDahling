@@ -1,6 +1,9 @@
 ## Malcolm Dahling
 - Studying to Frontend-Developer at Medieinstitutet
 
+<br>
+<br>
+
 ## 📈 Stats and skills:
 
 <a href="https://github.com/MalcolmDahling">
