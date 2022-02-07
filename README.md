@@ -1,4 +1,4 @@
-## 📈 Stats & Skills:
+## 📈 My stats and skills:
 
 
 <a href="https://github.com/MalcolmDahling">
