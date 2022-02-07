@@ -8,7 +8,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MalcolmDahling&show_icons=true&line_height=27&count_private=true&theme=github_dark" alt="MalcolmDahling's GitHub Stats" />
 </a>
 
- 
+ <br>
+ <br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=for-the-badge&logo=css3&logoColor=1572B6)
