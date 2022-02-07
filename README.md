@@ -1,5 +1,7 @@
-## 📈 My stats and skills:
+## Malcolm Dahling
+- Studying to Frontend-Developer at Medieinstitutet
 
+## 📈 Stats and skills:
 
 <a href="https://github.com/MalcolmDahling">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalcolmDahling&langs_count=3&theme=github_dark" />
