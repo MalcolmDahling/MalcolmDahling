@@ -1,5 +1,5 @@
 ## Malcolm Dahling
-- Studying to Frontend-Developer at Medieinstitutet
+Studying to Frontend-Developer at Medieinstitutet!
 <br>
 
 ## 📈 Stats and skills:
