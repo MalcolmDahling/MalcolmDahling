@@ -1,8 +1,6 @@
 ## Welcome to my GitHub page!
 I'm currently studying to Frontend-Developer at Medieinstitutet.
 <br>
-<a href="https://malcolmdahling.github.io/CV/">Click to view my CV!</a>
-<br>
 
 ## 📈 Stats and skills:
 
