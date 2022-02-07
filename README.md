@@ -1,5 +1,6 @@
 ## Welcome to my GitHub page!
 I'm currently studying to Frontend-Developer at Medieinstitutet.
+
 <br>
 
 ## 📈 Stats and skills:
