@@ -1,9 +1,8 @@
-- 🔭 I’m currently working on stuff.
-- 🌱 I’m currently learning more stuff.
-- 👯 I’m looking to collaborate on nothing.
-- 🤔 I’m looking for help with nothing.
-- 💬 Ask me about nothing.
-- 📫 How to reach me: you can't.
-- 😄 Pronouns: lol.
+## 📈 Stats & Skills:
 
-<!-- **MalcolmDahling/MalcolmDahling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<a href="https://github.com/MalcolmDahling">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalcolmDahling&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MalcolmDahling">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MalcolmDahling&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=FF4797&bg_color=1d1f21" alt="MalcolmDahling's GitHub Stats" />
+</a>
