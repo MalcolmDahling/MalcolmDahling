@@ -2,7 +2,6 @@
 - Studying to Frontend-Developer at Medieinstitutet
 
 <br>
-<br>
 
 ## 📈 Stats and skills:
 
