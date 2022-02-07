@@ -1,3 +1,9 @@
 ## 📈 Stats & Skills:
 
-![Malcolm Dahling's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalcolmDahling&show_icons=true&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalcolmDahling&langs_count=3&theme=github_dark)](https://github.com/MalcolmDahling/github-readme-stats)
+
+<a href="https://github.com/MalcolmDahling/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MalcolmDahling&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/MalcolmDahling/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MalcolmDahling&repo=convoychat" />
+</a>
