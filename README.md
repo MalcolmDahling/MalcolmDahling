@@ -23,4 +23,3 @@ I'm currently studying to Frontend-Developer at Medieinstitutet.
 ![Angular](https://img.shields.io/badge/-Angular-1d1f21?style=for-the-badge&logo=angular)
 ![React](https://img.shields.io/badge/-React-1d1f21?style=for-the-badge&logo=react)
 ![Adobe_Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-1d1f21?style=for-the-badge&logo=adobephotoshop)
-![NodeJS](https://img.shields.io/badge/-Node_JS-1d1f21?style=for-the-badge&logo=nodejs)
