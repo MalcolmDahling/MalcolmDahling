@@ -22,6 +22,10 @@
   <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/isak_dahling_music.png" width="49%">
 </a>
 
+<a href="https://github.com/MalcolmDahling/cv">
+  <img src="https://github.com/MalcolmDahling/MalcolmDahling/blob/main/images/current/cv.png" width="49%">
+</a>
+
 <a href="https://github.com/MalcolmDahling/cv_react">
   <img src="https://github.com/MalcolmDahling/MalcolmDahling/blob/main/images/current/cv-react.png" width="49%">
 </a>
@@ -31,7 +35,7 @@
 </a>
 
 <a href="https://github.com/MalcolmDahling/Socket.io_Chat">
-  <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/socket.io_chat.png" width="49%">
+  <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/socket.io_chat_new.png" width="49%">
 </a>
 
 
