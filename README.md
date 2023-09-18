@@ -12,7 +12,7 @@
 <br>
 
 <h1 align="center">Welcome to my GitHub page!</h1>
-<p align="center">I'm currently studying to Frontend-Developer at Medieinstitutet.</p>
+<p align="center">I'm a Frontend-Developer with a degree from Medieinstitutet.</p>
 
 <br>
 
