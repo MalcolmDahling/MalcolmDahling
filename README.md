@@ -52,6 +52,7 @@
 <br>
 
 <img src="https://deviconapi.vercel.app/nodejs?theme=dark&size=80"/>
+<img src="https://deviconapi.vercel.app/typescript?theme=dark&size=80"/>
 
            
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=for-the-badge&logo=html5&logoColor=E34F26)
