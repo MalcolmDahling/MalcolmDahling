@@ -51,15 +51,22 @@
 <br>
 <br>
 
-<img src="https://deviconapi.vercel.app/nodejs?theme=dark&size=80"/>
-<img src="https://deviconapi.vercel.app/typescript?theme=dark&size=80"/>
-
-           
-![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=for-the-badge&logo=css3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/-SASS-1d1f21?style=for-the-badge&logo=sass)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=for-the-badge&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Typescript-1d1f21?style=for-the-badge&logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-1d1f21?style=for-the-badge&logo=angular)
-![React](https://img.shields.io/badge/-React-1d1f21?style=for-the-badge&logo=react)
-![Adobe_Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-1d1f21?style=for-the-badge&logo=adobephotoshop)
+<div>
+  <img src="https://deviconapi.vercel.app/html5?theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/javascript?theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/typescript?theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/nodejs?theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/react?theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/nextjs?theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/jquery?theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/angularjs?theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/mysql?theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/mongodb?theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/sass?theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/git?theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/github?theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/photoshop?theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/illustrator?theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/php?theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/csharp?theme=dark&size=80"/>
+</div>
