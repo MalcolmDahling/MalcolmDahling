@@ -51,7 +51,7 @@
 <br>
 <br>
 
-<div>
+<div align="center">
   <img src="https://deviconapi.vercel.app/html5?theme=dark&size=80"/>
   <img src="https://deviconapi.vercel.app/javascript?theme=dark&size=80"/>
   <img src="https://deviconapi.vercel.app/typescript?theme=dark&size=80"/>
