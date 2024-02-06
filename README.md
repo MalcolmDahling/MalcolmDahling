@@ -67,4 +67,6 @@
   <img src="https://deviconapi.vercel.app/github?theme=dark&size=80"/>
   <img src="https://deviconapi.vercel.app/photoshop?theme=dark&size=80"/>
   <img src="https://deviconapi.vercel.app/illustrator?theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/cplusplus?theme=dark&size=80"/>
+  <img src="https://deviconapi.vercel.app/csharp?theme=dark&size=80"/>
 </div>
