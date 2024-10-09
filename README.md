@@ -30,11 +30,6 @@
   <img src="https://github.com/MalcolmDahling/MalcolmDahling/blob/main/images/current/marknadskollen.png" width="49%">
 </a>
 
-/*<a href="https://github.com/MalcolmDahling/cv_react">
-  <img src="https://github.com/MalcolmDahling/MalcolmDahling/blob/main/images/current/cv-react.png" width="49%">
-</a>*/
-
-
 <br>
 
 <h2>📈 Stats and skills</h2>
