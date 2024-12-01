@@ -1,6 +1,3 @@
-<br>
-<br>
-
 <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/6cdb15cd8fcf6718370445862eb4078d2258f49a/images/current/matrix2.svg" width="100%" />
 
 <br>
