@@ -1,29 +1,31 @@
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      .container {
-        width: 100%;
-        height: 300px;
-        display: flex;
-        flex-wrap: wrap;
-      }
-      .link {
-        flex-basis: 50%;
-      }
-    </style>
-  </defs>
-  <g class="container">
-    <a href="https://github.com/MalcolmDahling/cv" class="link">
-      <image href="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/cv.png" width="300" height="150" />
-    </a>
-    <a href="https://roverredovisning.se/" class="link">
-      <image href="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/rover-redovisning.png" width="300" height="150" />
-    </a>
-    <a href="https://github.com/MalcolmDahling/isak_dahling_music" class="link">
-      <image href="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/isak_dahling_music.png" width="300" height="150" />
-    </a>
-    <a href="https://marknadskollen.vercel.app/" class="link">
-      <image href="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/marknadskollen.png" width="300" height="150" />
-    </a>
-  </g>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container{
+          width: 100%;
+          height: 300px;
+          display: flex;
+          flex-wrap: wrap; 
+        }
+         .link{
+          flex-basis:50%;
+        }
+      </style>
+      <div class="container">
+        <a href="https://github.com/MalcolmDahling/cv" class="link">
+          <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/cv.png"></img>
+        </a>
+        <a href="https://roverredovisning.se/" class="link">
+          <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/rover-redovisning.png"></img>
+        </a>
+        <a href="https://github.com/MalcolmDahling/isak_dahling_music" class="link">
+          <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/isak_dahling_music.png"></img>
+        </a>
+        <a href="https://marknadskollen.vercel.app/" class="link">
+          <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/marknadskollen.png"></img>
+        </a>
+      </div>
+    </div>
+  </foreignObject>
 </svg>
