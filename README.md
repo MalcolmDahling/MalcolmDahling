@@ -21,19 +21,6 @@
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container{
-          width: 100%;
-          height: 300px;
-          display: flex;
-          flex-wrap: wrap; 
-        }
-      </style>
-      <style>
-        .link{
-          flex-basis:50%;
-        }
-      </style>
       <div class="container">
         <a href="https://github.com/MalcolmDahling/cv" class="link">
           <img src="https://github.com/MalcolmDahling/MalcolmDahling/blob/main/images/current/cv.png" width="49%">
