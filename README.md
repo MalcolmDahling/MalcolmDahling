@@ -1,14 +1,6 @@
 <br>
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/malcolmdahling.png">
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/5ca3aaaef56b6c759a17ecc0d2df67d206a3fa7c/images/current/waves.svg" width="100%" height="200px">
-
 <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/795eb53dc6ed52665514490cb185762800648642/images/current/name.svg" width="100%" />
 <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/40e161038109d8ce41ee1b06b94920015fa78728/images/current/matrix.svg" width="100%" />
 
