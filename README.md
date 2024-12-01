@@ -18,35 +18,18 @@
 
 <h2>📂 Some of my projects</h2>
 
-<div style="border:10px solid red; background-color:green">
-  <a href="https://github.com/MalcolmDahling/cv">
-    <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/cv.png" width="49.7%">
-  </a>
-  <a href="https://roverredovisning.se/">
-    <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/rover-redovisning.png" width="49.7%">
-  </a>
-  <a href="https://github.com/MalcolmDahling/isak_dahling_music">
-    <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/isak_dahling_music.png" width="49.7%">
-  </a>
-  <a href="https://marknadskollen.vercel.app/">
-    <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/marknadskollen.png" width="49.7%">
-  </a>
-</div>
-
-<div style="border:10px solid red; background-color: green;">
-  <a href="https://github.com/MalcolmDahling/cv">
-    <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/cv.png" width="49.7%">
-  </a>
-  <a href="https://roverredovisning.se/">
-    <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/rover-redovisning.png" width="49.7%">
-  </a>
-  <a href="https://github.com/MalcolmDahling/isak_dahling_music">
-    <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/isak_dahling_music.png" width="49.7%">
-  </a>
-  <a href="https://marknadskollen.vercel.app/">
-    <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/marknadskollen.png" width="49.7%">
-  </a>
-</div>
+<a href="https://github.com/MalcolmDahling/cv">
+  <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/cv.png" width="49.7%">
+</a>
+<a href="https://roverredovisning.se/">
+  <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/rover-redovisning.png" width="49.7%">
+</a>
+<a href="https://github.com/MalcolmDahling/isak_dahling_music">
+  <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/isak_dahling_music.png" width="49.7%">
+</a>
+<a href="https://marknadskollen.vercel.app/">
+  <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/marknadskollen.png" width="49.7%">
+</a>
 
 <br>
 
