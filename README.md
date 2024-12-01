@@ -28,7 +28,8 @@
           display: flex;
           flex-wrap: wrap; 
         }
-        
+      </style>
+      <style>
         .link{
           flex-basis:50%;
         }
