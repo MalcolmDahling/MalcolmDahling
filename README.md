@@ -20,7 +20,7 @@
 
 <div style="border:1px solid red">
   <a href="https://github.com/MalcolmDahling/cv">
-    <img src="https://github.com/MalcolmDahling/MalcolmDahling/main/images/current/cv.png" width="49.7%">
+    <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/cv.png" width="49.7%">
   </a>
   <a href="https://roverredovisning.se/">
     <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/rover-redovisning.png" width="49.7%">
@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/isak_dahling_music.png" width="49.7%">
   </a>
   <a href="https://marknadskollen.vercel.app/">
-    <img src="https://github.com/MalcolmDahling/MalcolmDahling/blob/main/images/current/marknadskollen.png" width="49.7%">
+    <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/marknadskollen.png" width="49.7%">
   </a>
 </div>
 
