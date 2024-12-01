@@ -18,7 +18,7 @@
 
 <h2>📂 Some of my projects</h2>
 
-<div style="border:1px solid red">
+<div style="border:1px solid red;">
   <a href="https://github.com/MalcolmDahling/cv">
     <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/cv.png" width="49.7%">
   </a>
