@@ -20,6 +20,7 @@
 
 <img src="projects.svg"></img>
 
+
 <br>
 
 <h2>📈 Stats and skills</h2>
