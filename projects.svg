@@ -1,31 +1,3 @@
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container{
-          width: 100%;
-          height: 300px;
-          display: flex;
-          flex-wrap: wrap; 
-        }
-         .link{
-          flex-basis:50%;
-        }
-      </style>
-      <div class="container">
-        <a href="https://github.com/MalcolmDahling/cv" class="link">
-          <img src="https://github.com/MalcolmDahling/MalcolmDahling/blob/main/images/current/cv.png">
-        </a>
-        <a href="https://roverredovisning.se/" class="link">
-          <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/refs/heads/main/images/current/rover-redovisning.png">
-        </a>
-        <a href="https://github.com/MalcolmDahling/isak_dahling_music" class="link">
-          <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/isak_dahling_music.png">
-        </a>
-        <a href="https://marknadskollen.vercel.app/" class="link">
-          <img src="https://github.com/MalcolmDahling/MalcolmDahling/blob/main/images/current/marknadskollen.png">
-        </a>
-      </div>
-    </div>
-  </foreignObject>
+
 </svg>
