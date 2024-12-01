@@ -28,6 +28,7 @@
           display: flex;
           flex-wrap: wrap; 
         }
+        
         .link{
           flex-basis:50%;
         }
