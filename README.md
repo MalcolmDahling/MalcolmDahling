@@ -18,7 +18,7 @@
 
 <h2>📂 Some of my projects</h2>
 
-//svg här
+<img src="projects.svg"></img>
 
 <br>
 
