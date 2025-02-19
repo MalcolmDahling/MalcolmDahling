@@ -13,7 +13,7 @@
 <a href="https://github.com/MalcolmDahling/cv">
   <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/cv.png" width="49%">
 </a>
-<a href="https://roverredovisning.se/">
+<a href="https://github.com/MalcolmDahling/rover_redovisning">
   <img src="https://raw.githubusercontent.com/MalcolmDahling/MalcolmDahling/main/images/current/rover-redovisning.png" width="49%">
 </a>
 <a href="https://github.com/MalcolmDahling/isak_dahling_music">
