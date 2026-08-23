@@ -25,7 +25,7 @@
 
 <br>
 
-<h2>📈 Stats and skills</h2>
+<h2>📈 Skills</h2>
 
 <div align="center">
   <a href="https://github.com/MalcolmDahling">
