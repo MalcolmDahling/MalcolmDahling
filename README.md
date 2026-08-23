@@ -26,16 +26,6 @@
 <br>
 
 <h2>📈 Skills</h2>
-
-<div align="center">
-  <a href="https://github.com/MalcolmDahling">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MalcolmDahling&show_icons=true&line_height=27&count_private=true&theme=github_dark" alt="MalcolmDahling's GitHub Stats" />
-  </a>
-</div>
-
-<br>
-<br>
-
 <div align="center">
   <img src="https://deviconapi.vercel.app/html5?theme=dark&size=80"/>
   <img src="https://deviconapi.vercel.app/javascript?theme=dark&size=80"/>
